@@ -1,4 +1,4 @@
-# the-ultimate
+# the-ultimate code
     print("Menu :\n" "1.area of square\n" "2.area of rectanangle\n" "3.area of triangle\n" "4.area of circle\n")
 
     opt = int(input("enter the option:  "))
